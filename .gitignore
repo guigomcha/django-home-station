@@ -2,3 +2,4 @@
 .idea
 /google_drive_api/credentials.json
 /google_drive_api/token.pickle
+*.png

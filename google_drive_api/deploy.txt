@@ -1,2 +1,0 @@
-python -m pip install -U --force-reinstall pip
-pip install -U pip google-api-python-client oauth2client
