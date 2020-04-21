@@ -6,7 +6,7 @@ First service to cover downloading images from google drive and showing them on 
 
 Objectives:
 1. Make use of an old tablet.
-2. Organize photos based on date, people in it and possible a points-based wheight system for duration etc
+2. Organize photos based on date, location and any more user provided data. (OpenCV for face recognition? why not)
 
 
 ## Arduino Client
