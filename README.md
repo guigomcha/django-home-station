@@ -12,3 +12,12 @@ Objectives:
 ## Arduino Client
 Since this service will be implemented nearby an existing Arduino-based station, it is desired to be able to work as gateway between Alexa and bluetooth.
 As for now, It should be able to despatch ON/OFF commands for a string of leds connected to the arduino.
+
+
+# Developer guidelines
+
+1. No direct pushing to master or develop on this repo
+2. All alexa related work should branch off of develop-alexa 
+3. All django related work should branch off of develop-django
+4. All google related work should branch off of develop-google
+5. Use squash as merge option on all PR and wait to have at least 1 approval.
